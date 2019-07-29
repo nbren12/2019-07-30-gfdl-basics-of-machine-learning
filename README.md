@@ -1,4 +1,4 @@
-[![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/nbren12/2018-11-06-python-in-geosciences/master)
+[![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/nbren12/2019-07-30-gfdl-basics-of-machine-learning)
 
 # Learning objectives
 
