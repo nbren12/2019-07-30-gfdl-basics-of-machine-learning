@@ -1,5 +1,13 @@
 [![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/nbren12/2018-11-06-python-in-geosciences/master)
 
+# Learning objectives
+
+- Load data with xarray and visualize it
+- Pre-process data into a "data matrix"
+- Train machine learning models using the scikit-learn API
+- Demonstrate overfitting
+- Time permitting: explore automatic differentiation with PyTorch.
+
 # Using python for machine learning with large gridded datasets
 
 In this talk, I will discuss the tools behind some of my recent work building
